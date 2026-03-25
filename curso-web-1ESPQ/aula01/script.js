@@ -104,7 +104,7 @@ console.log(pattern.test("+55(11)2299-0899"));  // true
 
 
 //CONVERSÃO DE TIPOS
-// num 'numero' para string 'texto'
+// num numero para string texto
 String(42); // "42"
 42 + "";  // "42"
 
